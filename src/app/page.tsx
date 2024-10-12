@@ -1,6 +1,8 @@
 import Image from "next/image";
 import PostComponent from "~/components/Post";
 
+export const dynamic = "force-dynamic";
+
 const imagesLink = [
   "https://utfs.io/f/QOg6WchRNpxEpdffs67sXL1ikjQzmGWqvTU9DdxVMory3nNI",
   "https://utfs.io/f/QOg6WchRNpxEgXFlDYrrP1qtcF2Y4msIuwejyAWxXhp5GUE8",
